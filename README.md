@@ -2,7 +2,7 @@
  Creation of Resume using LaTeX language on OverLeaf.com
 
 ## Template
-My resume created with reference to [posquit0](https://github.com/posquit0/Awesome-CV)
+My resume created with reference to [posquit0](https://github.com/posquit0/Awesome-CV) by using Awesome CV
 
 ## What is Awesome CV?
 
