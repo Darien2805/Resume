@@ -12,7 +12,7 @@ My resume created with reference to [posquit0](https://github.com/posquit0/Aweso
 
 #### Résumé
 
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
+You can see [PDF](https://raw.githubusercontent.com/Darien2805/Resume/master/resume.pdf)
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
