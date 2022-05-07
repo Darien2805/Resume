@@ -12,9 +12,9 @@ My resume created with reference to [posquit0](https://github.com/posquit0/Aweso
 
 #### Résumé
 
-You can see [PDF](https://raw.githubusercontent.com/Darien2805/Resume/main/resume.pdf)
+You can see [PDF](https://raw.githubusercontent.com/Darien2805/Resume/main/Resume.pdf)
 
-| Page. 1 | Page. 2 |
+| Page. 1 | Page. 2 | Page. 3
 |:---:|:---:|
 | [![Résumé](https://raw.githubusercontent.com/Darien2805/Resume/main/resume-0.png)](https://raw.githubusercontent.com/Darien2805/Resume/main/Resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/Darien2805/Resume/main/resume-1.png)](https://raw.githubusercontent.com/Darien2805/Resume/main/Resume.pdf) | [![Résumé](https://raw.githubusercontent.com/Darien2805/Resume/main/resume-2.png)](https://raw.githubusercontent.com/Darien2805/Resume/main/Resume.pdf) | 
 
