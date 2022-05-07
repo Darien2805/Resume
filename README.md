@@ -12,9 +12,9 @@ My resume created with reference to [posquit0](https://github.com/posquit0/Aweso
 
 #### Résumé
 
-You can see [PDF](https://raw.githubusercontent.com/Darien2805/Resume/master/resume.pdf)
+You can see [PDF](https://raw.githubusercontent.com/Darien2805/Resume/main/resume.pdf)
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/Darien2805/Resume/master/resume-0.png)](https://raw.githubusercontent.com/Darien2805/Resume/master/Resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/Darien2805/Resume/master/resume-1.png)](https://raw.githubusercontent.com/Darien2805/Resume/master/Resume.pdf) | [![Résumé](https://raw.githubusercontent.com/Darien2805/Resume/master/resume-2.png)](https://raw.githubusercontent.com/Darien2805/Resume/master/Resume.pdf) | 
+| [![Résumé](https://raw.githubusercontent.com/Darien2805/Resume/main/resume-0.png)](https://raw.githubusercontent.com/Darien2805/Resume/main/Resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/Darien2805/Resume/main/resume-1.png)](https://raw.githubusercontent.com/Darien2805/Resume/main/Resume.pdf) | [![Résumé](https://raw.githubusercontent.com/Darien2805/Resume/main/resume-2.png)](https://raw.githubusercontent.com/Darien2805/Resume/main/Resume.pdf) | 
 
